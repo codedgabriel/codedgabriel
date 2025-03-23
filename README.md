@@ -11,6 +11,18 @@
 
 <br clear="both">
 
+<h3 align="center">Hello World</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">🎓 Education<br>I’m studying Science and Technology at UFMA and Systems Analysis and Development.<br><br>🚀 I’m a developer in training, passionate about programming (Python), automation, and artificial intelligence. I enjoy creating games on Roblox and am always looking for new tech challenges.<br><br>Besides that, I really like D&D and practicing sports whenever I get the chance!</p>
+
+###
+
+<br clear="both">
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -41,8 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
 ###
