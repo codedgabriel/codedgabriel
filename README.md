@@ -1,14 +1,8 @@
-<br clear="both">
-
-<h1 align="center">Hello World!!</h1>
-
-###
-
 <img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnloNGJkeGZiZ2w4cWc2eGNsM2ExdmtmYjgwamhzdG1xYzF4M3QwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif"  />
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=docecaos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
