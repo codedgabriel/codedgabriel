@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm a creative mind from São Luís, MA.<br><br>    🔭 I’m working on <a href="https://codegabriel.com.br/codeshop">CodeShop</a>, a platform where developers can buy ready-to-use code snippets and templates to speed up their projects.<br><br>    📚 I'm currently learning Python programming to create smart tools and automations that make life easier — from business helpers to game development.<br><br>    ⚡ In my free time I create D&D characters and adventures, brainstorm ideas for fun minicourses, and dive into game dev with Roblox Studio.</p>
+<p align="left">I'm a creative mind from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Maranhão, Brasil</b>.<br><br>    🔭 I’m working on <a href="https://codegabriel.com.br/codeshop">CodeShop</a>, a platform where developers can buy ready-to-use code snippets and templates to speed up their projects.<br><br>    📚 I'm currently learning Python programming to create smart tools and automations that make life easier — from business helpers to game development.<br><br>    ⚡ In my free time I create D&D characters and adventures, brainstorm ideas for fun minicourses, and dive into game dev with Roblox Studio.</p>
 
 ###
 
