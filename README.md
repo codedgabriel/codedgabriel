@@ -1,7 +1,7 @@
 <div align="center">
-    [<img src="https://svgur.com/i/15x9.svg" width="200">](https://js-dos.com/games/doom.exe.html)
-</iframe>
+
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHViYWRwdm84Zm5qMjV5cHFlemFsb2ZucTZ3YTE4b296dWxleHo2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif"  />
+  
 </div>
 
 ###
