@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h1>codegabriel</h1>
+  
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Transformando+ideias+em+realidade;Construindo+o+futuro+um+commit+por+vez;Criando+código+com+criatividade" alt="Animação de digitação" />
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHViYWRwdm84Zm5qMjV5cHFlemFsb2ZucTZ3YTE4b296dWxleHo2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="180" alt="CodeGabriel Avatar" />
+<h1>codegabriel</h1>
 </div>
 
 ---
