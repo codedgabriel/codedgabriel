@@ -1,8 +1,5 @@
 <div align="center">
 
-  
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHViYWRwdm84Zm5qMjV5cHFlemFsb2ZucTZ3YTE4b296dWxleHo2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="180" alt="CodeGabriel Avatar" />
 <h1>codegabriel</h1>
 </div>
 
