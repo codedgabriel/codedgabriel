@@ -33,9 +33,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFnYnBoM3ZxYTQ5eGl2MmEzeDFrczAweXRmYmhuOTNnYXZxcmZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"  />
-</div>
-
-###
