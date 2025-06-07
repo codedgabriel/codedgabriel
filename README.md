@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<p align="center">also studying...</p>
+<p align="center">also studying</p>
 
 ###
 
