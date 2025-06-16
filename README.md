@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h0czRzODBuNGE5NHpvYWIycnh1em00eG9sdzliOHN4NjdhbDNsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3fA2iTXN1EGj5Dtm/giphy.gif"  />
+  <img height="200" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
 </div>
 
 ###
